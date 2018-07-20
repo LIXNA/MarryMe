@@ -15,6 +15,8 @@ import com.cy.view.widge.T;
  */
 public class BootCompletedReceiver extends BroadcastReceiver {
 
+
+
     @Override 
     public void onReceive(Context context, Intent intent) {
         Log.d("wb", "----------监听到开机广播-----------");
