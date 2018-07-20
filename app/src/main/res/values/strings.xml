@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">撩我</string>
+    <string name="marryme">做我老婆好不好?</string>
+    <string name="msg_success">宝贝,我爱你</string>
+    <string name="msg_retry">还真以为点100下就完事了么，不满意，重新再来~</string>
+    <string name="msg_auto_release">5s后自动唤醒</string>
+    <string name="msg_back_useless">按返回也没用~</string>
+    <string name="msg_phone_control">您的手机已被劫持</string>
+    <integer-array  name="pic">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+        <item>@drawable/g</item>
+    </integer-array>
+    <string-array name="msg">
+        <item>答应我就完事了!!</item>
+        <item>掉到水里先救你</item>
+        <item>以后什么都听你的</item>
+        <item>以后我养你</item>
+        <item>给你买口红</item>
+        <item>给你买发夹</item>
+        <item>给你买眉笔</item>
+        <item>你的生活费我包了</item>
+        <item>衣服我来洗</item>
+        <item>米饭我来烧</item>
+    </string-array>
+
+</resources>
